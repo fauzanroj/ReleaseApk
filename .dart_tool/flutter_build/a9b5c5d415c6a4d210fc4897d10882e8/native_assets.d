@@ -1,0 +1,1 @@
+ C:\\Users\\bul\\Documents\\ozan\\sem\ 6\\praktikum\ mobile\\notesappmobile\\.dart_tool\\flutter_build\\a9b5c5d415c6a4d210fc4897d10882e8\\native_assets.yaml: 
